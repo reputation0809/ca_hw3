@@ -1,3 +1,7 @@
+#include<stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 int main(){
     char letter[3]={'c','f','j'};
     char target='a';
